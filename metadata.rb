@@ -1,0 +1,7 @@
+name 'bnfs_was_ear_deploy'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures bnfs_was_ear_deploy'
+long_description 'Installs/Configures bnfs_was_ear_deploy'
+version '0.1.0'
